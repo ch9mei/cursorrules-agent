@@ -182,8 +182,8 @@
   * 实体相关更新 -> entities.md
   * API相关更新 -> api.md
   * 工具类更新 -> utils.md
-  * 经验教训 -> notes/lessons.md
-  * 当前任务状态 -> notes/current_task.md
+  * 经验教训 -> .cursorrules.d/project_base/notes/lessons.md
+  * 当前任务状态 -> .cursorrules.d/project_base/notes/current_task.md
 
 - 更新流程：
   1. 识别任务涉及的内容类型

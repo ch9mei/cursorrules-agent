@@ -44,7 +44,7 @@
 - 提供性能分析
 
 ## 文件结构
-. ├── .cursorrules/ │ ├── project_base/ │ │ ├── instructions.md # 项目基础指令 │ │ ├── entities.md # 实体定义 │ │ ├── api.md # API文档 │ │ └── utils.md # 工具函数 │ ├── notes/ │ │ ├── lessons.md # 经验教训 │ │ ├── current_task.md # 当前任务 │ │ └── scratchpad.md # 临时记录 │ └── deps.md # 依赖管理
+├── .cursorrules/ │ ├── project_base/ │ │ ├── instructions.md # 项目基础指令 │ │ ├── entities.md # 实体定义 │ │ ├── api.md # API文档 │ │ └── utils.md # 工具函数 │ ├── notes/ │ │ ├── lessons.md # 经验教训 │ │ ├── current_task.md # 当前任务 │ │ └── scratchpad.md # 临时记录 │ └── deps.md # 依赖管理
 
 
 ## 功能模块
